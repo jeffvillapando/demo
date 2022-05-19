@@ -5,8 +5,4 @@ this is a sample file. this is new!
 
 #UPDATES PART 2
 
-Just some text.. New Text
-
-#UPDATES PART 3 
-
-New branch added
+Just some text.. New Text.. 1st Update
