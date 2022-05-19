@@ -3,3 +3,5 @@
 this is a sample file. this is new!
 
 #UPDATES PART 2
+
+Just some text
